@@ -4,10 +4,10 @@
 - 👀 Sou programador novato buscando aprender e ingressar na área.
 - 🌱 Sou formado em ciência da computação
 - 💞️ Estou a procura de construir projetos front-end 
-- 📫 Vaja meus repositórios atuais, com somente alguns meses de estudos e pretendo evoluir ainda mais. 
-
-<a href="https://github.com/CarlosRandel/projeto-fron-0portifolio/tree/master"> Uma simples demostração de Dashboard</a>
-<a> </a>
+- 📫 Veja meus repositórios atuais, com somente alguns meses de estudos e pretendo evoluir ainda mais. 
+<hr/>
+<a href="https://github.com/CarlosRandel/projeto-fron-0portifolio/tree/master"> Uma simples demostração de Dashboard</a><br/><br/>
+<a href="https://github.com/CarlosRandel/loginRepo/tree/master"> Aqui um login com autenticação via token e mongoDB </a>
 <a> </a>
 
 
